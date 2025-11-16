@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "WinForms\\WinForms.csproj",
+        "Action": "Start",
+        "DebugTarget": "WinForms"
+      },
+      {
+        "Path": "ConsoleApp\\ConsoleApp.csproj",
+        "Action": "Start",
+        "DebugTarget": "ConsoleApp"
+      }
+    ]
+  }
+]
